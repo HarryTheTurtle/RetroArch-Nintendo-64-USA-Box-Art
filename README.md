@@ -6,9 +6,9 @@ Download as a zip and extract. Copy or cut the "Nintendo - Nintendo 64" file int
 Make sure you turn on show thumbnails in your RetroArch settings.
 
 ## Commits
-Image commits must be 512x374.
-Images must be saved as a png file.
-Must be USA release retail box art.
-Images must be high quality with no visiable blemishes, damage, and/or alterations.
+- Image commits must be 512x374.
+- Images must be saved as a png file.
+- Must be USA release retail box art.
+- Images must be high quality with no visiable blemishes, damage, and/or alterations.
 
 Delete this file once installed.
