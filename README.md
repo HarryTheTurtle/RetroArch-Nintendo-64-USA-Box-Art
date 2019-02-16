@@ -11,4 +11,4 @@ Make sure you turn on show thumbnails in your RetroArch settings.
 - Must be USA release retail box art.
 - Images must be high quality with no visiable blemishes, damage, and/or alterations.
 
-Delete this file once installed.
+You can delete the master folder after you copy or cut the "Nintendo - Nintendo 64" over.
